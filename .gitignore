@@ -1,0 +1,12 @@
+*.csv
+*.txt
+x64/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+.vs/
+0
+*.xlsx
+*.xlsm
+*.ini
