@@ -17,6 +17,7 @@ public:
 	void printScreen(std::map<std::string, int>*);
 	void printScreen(std::map<std::string, std::vector<std::string>>* master);
 	void printfScreen(std::vector<std::vector<std::string>>*);
+private:
 	int convertToFloat(std::string* str, char* cstr);
 };
 
